@@ -16,7 +16,7 @@ def validBraces(string):
 
 
 
-validBraces("([{]}])")
+validBraces("[[{]}]]")
 
 # usedString = {
 #     "[":0,
