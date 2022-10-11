@@ -11,3 +11,7 @@ for wordC in words:
 
 diction = {'key1': 100}
 # listing = [1,2,3, 4]
+
+def tryLst():
+    print("tetsing")
+    print("maybe now")
